@@ -18,8 +18,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
+- Create a Virtual Machine in Azure
+- Install / Enable IIS in Windows WITH CGI and Common HTTP Features
 - Item 3
 - Item 4
 - Item 5
@@ -27,10 +27,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FK4UU8C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After creating a resource group in Azure, create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs. When creating the VM, allow it to create a new Virtual Network (Vnet).
+
 </p>
 <br />
 
